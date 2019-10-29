@@ -1,0 +1,22 @@
+body{
+    overflow: hidden;
+}
+.Persons{
+    padding:120px;
+    background-image:url(https://dotravel.com/uploads/articles/64/feature_2.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+    color:#f1d792;
+    /* width: 100%; */
+}
+.cardsDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
